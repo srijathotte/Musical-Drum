@@ -1,0 +1,20 @@
+h1{
+color: whitesmoke;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img{
+    margin: 50px;
+    height: 200px;
+    width: 200px;
+}
+
+#images{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 130px;
+}
+body{
+    background-image: url(./assests/bg\ image.jpg);
+    background-size: cover;
+}
